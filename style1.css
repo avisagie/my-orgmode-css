@@ -1,0 +1,74 @@
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(fonts/SourceSansPro-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url(fonts/SourceSansPro-Semibold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url(fonts/SourceSansPro-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url(fonts/SourceSerifPro-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Serif Pro Semibold'), local('SourceSerifPro-Semibold'), url(fonts/SourceSerifPro-Semibold.ttf) format('truetype');
+}
+
+body {
+    max-width: 80ex;
+    margin: auto;
+    font-family: 'Source Sans Pro', 'Calibri', sans-serif;    
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#content {
+    margin: 0 1ex 0;
+}
+
+p, ul, ol {
+    font-size: 100%;
+    line-height: 130%;
+    color: #303030;
+}
+
+H1, H2, H3, H4, H5, H6 {
+    font-family: 'Source Serif Pro', 'Cambria', serif;
+    font-weight: 400;
+}
+
+H1 {
+    font-size: 500%;
+    border-bottom: thick solid #ff0000;
+}
+
+H2 {
+    font-size: 220%;
+    font-weight: 600;
+    border-bottom: thin solid #c00000;
+}
+
+H3 {
+    font-size: 160%;
+}
+
+H4 {
+    font-size: 120%;
+}
+
