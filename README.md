@@ -1,5 +1,5 @@
-I have a bit of an obsession with Emacs [http://orgmode.org/](Org
-Mode). This is a small sample doc with a stylesheet for exporting
+I have a bit of an obsession with Emacs [Org Mode](http://orgmode.org/). 
+This is a small sample doc with a stylesheet for exporting
 org mode notes and docs as a nicely formatted html document.
 
 To get started, git clone this repository, open notes.org in emacs,
