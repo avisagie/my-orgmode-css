@@ -1,3 +1,5 @@
+//License: GPL 3, http://orgmode.org/worg/code/org-info-js/#orgheadline30
+
 function OrgNode(e,h,f,g,d,b,j){var i=this;i.D=e;i.I=b;i.J=-1;i.H=h;i.L=f;i.HH=false;
 i.P=d;i.DRT=false;i.ST=OrgNode.SF;i.TOC=j;i.DEPTH=g;i.F=null;i.CH=new Array();i.NAV="";
 i.BS=null;if(null!=i.P){i.P.addChild(this);i.hide();}var a=document.getElementById("text-"+i.I);
