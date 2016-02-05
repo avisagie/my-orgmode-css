@@ -1,8 +1,13 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style1.css" />
 #+TODO: TODO | DONE
+#+OPTIONS: num:5 toc:2
 #+TITLE: Notes
 
-* TODO One morning, when Gregor Samsa
+* bin 								   :noexport:
+##+OPTIONS: html-postamble:nil
+##+INFOJS_OPT: view:showall path:scripts/org-info.js
+
+* TODO One morning, when Gregor Samsa					  :X:
 woke from troubled dreams, he found
 himself transformed in his bed into a horrible vermin. He lay on his
 armour-like back, and if he lifted his head a little he could see his
@@ -16,10 +21,11 @@ he thought. It wasn't a dream. His room, a
 proper human room although a little too small, lay peacefully between
 its four familiar walls. A collection of textile samples lay spread
 out on the table - Samsa was a travelling salesman - and above it
-there hung a picture that he had recently cut out of an illustrated
-magazine and housed in a nice, gilded frame. It showed a lady fitted
-out with a fur hat and fur boa who sat upright, raising a heavy fur
-muff that covered the whole of her lower arm towards the viewer.
+
+1. there hung a picture that he had recently cut out of an illustrated
+   magazine and housed in a nice, gilded frame. It showed a lady fitted
+2. out with a fur hat and fur boa who sat upright, raising a heavy fur
+   muff that covered the whole of her lower arm towards the viewer.
 
 Checkout [[picture]].
 
@@ -32,11 +38,11 @@ point here.
 [[./picture.jpg]]
 
 
-** blah [1/5]
+** blah [1/2]
    1. [ ] do something
    2. [X] something else too
 
-** DONE more blah
+** DONE more blah							  :X:
 
 ** Gregor then turned
 to look out the window at the dull weather. Drops
@@ -67,7 +73,7 @@ was overcome by a cold shudder.
 
 Check out [[what-happened]]
 
-** He slid back into his former position. "Getting up early all the
+** He slid back into his former position. "Getting up early all the	  :Y:
    1. time", he thought, "it makes you stupid. You've got to get enough
    2. sleep. Other travelling
    3. salesmen live a life of luxury. For instance,
