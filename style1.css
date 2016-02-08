@@ -62,7 +62,7 @@ p, ul, ol {
 
 li {
     line-height: 140%;
-    color: #303030;
+    color: #505050;
     margin: 0.5ex 0 1ex 0;
 }
 
@@ -74,12 +74,12 @@ H1, H2, H3, H4, H5, H6 {
 
 H1 {
     font-size: 400%;
-    border-bottom: thick solid #d00000;
+    border-bottom: thick solid #a00000;
 }
 
 H2 {
     font-size: 240%;
-    border-bottom: thin solid #b00000;
+    border-bottom: thin solid #a00000;
     margin: 3ex 0 1ex 0;
 }
 
@@ -90,5 +90,10 @@ H3 {
 
 H4 {
     font-size: 160%;
+    margin: 1ex 0 0.5ex 0;
+}
+
+H5 {
+    font-size: 130%;
     margin: 1ex 0 0.5ex 0;
 }
