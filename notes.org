@@ -1,3 +1,4 @@
+#+HTML_HEAD: <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic|Roboto+Condensed' rel='stylesheet' type='text/css'>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style1.css" />
 #+TODO: TODO | DONE
 #+OPTIONS: num:5 toc:2 H:4
