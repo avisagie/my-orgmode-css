@@ -1,11 +1,5 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style1.css" />
-#+TODO: TODO | DONE
-#+OPTIONS: num:5 toc:2
+#+SETUPFILE: style1.setup
 #+TITLE: Notes
-
-* bin 								   :noexport:
-##+OPTIONS: html-postamble:nil
-##+INFOJS_OPT: view:showall path:scripts/org-info.js
 
 * TODO One morning, when Gregor Samsa					  :X:
 woke from troubled dreams, he found
