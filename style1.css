@@ -1,7 +1,7 @@
 body {
     max-width: 80ex;
     margin: auto;
-    font-family: 'Lato', 'Calibri', sans-serif;    
+    font-family: 'Source Sans Pro', 'Calibri', sans-serif;    
     text-align: left;
     text-justify: inter-word;
 }
@@ -11,45 +11,46 @@ body {
 }
 
 p, ul, ol {
-    font-size: 100%;
-    line-height: 140%;
+    font-size: 14pt;
+    line-height: 20pt;
     color: #303030;
-    margin: 0.5ex 0 1ex 0;
+    margin: 10pt 0 20pt 0;
 }
 
 li {
     line-height: 140%;
     color: #303030;
-    margin: 0.5ex 0 1ex 0;
+    margin: 10pt 0 0 0;
 }
 
 H1, H2, H3, H4, H5, H6 {
-    font-family: 'Ubuntu Condensed', 'Calibri Light', sans-serif;
+    font-family: 'Source Serif Pro', 'Calibri Light', sans-serif;
     font-weight: 400;
     text-align: left;
+    line-height: 36pt;
 }
 
 H1 {
-    font-size: 400%;
+    font-size: 46pt;
     border-bottom: thick solid #b00000;
+    line-height: 54pt;
+    font-weight: bold;
 }
 
 H2 {
-    font-size: 240%;
+    font-size: 32pt;
     border-bottom: thin solid #b00000;
-    margin: 2ex 0 1ex 0;
+    margin: 20pt 0 10pt 0;
 }
 
 H3 {
-    font-size: 190%;
-    margin: 2ex 0 1ex 0;
-    color: #900000;
+    font-size: 24pt;
+    margin: 20pt 0 10pt 0;
 }
 
 H4 {
-    font-size: 160%;
-    margin: 1ex 0 0.5ex 0;
-    color: #600000;
+    font-size: 20pt;
+    margin: 20pt 0 10pt 0;
 }
 
 .todo {
