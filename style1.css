@@ -1,5 +1,5 @@
 body {
-    max-width: 80ex;
+    max-width: 90ex;
     margin: auto;
     font-family: 'Source Sans Pro', 'Calibri', sans-serif;    
     text-align: left;
@@ -20,18 +20,18 @@ p, ul, ol {
 li {
     line-height: 140%;
     color: #303030;
-    margin: 0;
+    margin: 10pt 0 10pt 0;
 }
 
 H1, H2, H3, H4, H5, H6 {
-    font-family: 'Source Serif Pro', 'Cambria', sans-serif;
+    font-family: 'Source Serif Pro', 'Cambria', serif;
     font-weight: 400;
     text-align: left;
     line-height: 36pt;
 }
 
 #text-table-of-contents {
-    font-family: 'Source Serif Pro', 'Cambria', sans-serif;
+    font-family: 'Source Serif Pro', 'Cambria', serif;
 }
 
 div#table-of-contents > H2 {
@@ -59,6 +59,16 @@ H3 {
 
 H4 {
     font-size: 20pt;
+    margin: 20pt 0 10pt 0;
+}
+
+H5 {
+    font-size: 18pt;
+    margin: 20pt 0 10pt 0;
+}
+
+H6 {
+    font-size: 16pt;
     margin: 20pt 0 10pt 0;
 }
 
