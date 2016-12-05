@@ -4,6 +4,8 @@ body {
     font-family: 'Source Sans Pro', 'Calibri', sans-serif;    
     text-align: left;
     text-justify: inter-word;
+    font-size: 12pt;
+    line-height: 18pt;
 }
 
 #content {
@@ -11,14 +13,11 @@ body {
 }
 
 p, ul, ol {
-    font-size: 14pt;
-    line-height: 20pt;
     color: #303030;
     margin: 10pt 0 10pt 0;
 }
 
 li {
-    line-height: 140%;
     color: #303030;
     margin: 10pt 0 10pt 0;
 }
