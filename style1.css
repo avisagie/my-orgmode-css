@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i|Roboto:400,400i,700,700i');
+
 body {
     max-width: 90ex;
     margin: auto;
-    font-family: 'Source Sans Pro', 'Calibri', sans-serif;    
+    font-family: 'Roboto', 'Calibri', sans-serif;    
     text-align: left;
     text-justify: inter-word;
     font-size: 12pt;
@@ -23,14 +25,14 @@ li {
 }
 
 H1, H2, H3, H4, H5, H6 {
-    font-family: 'Source Serif Pro', 'Cambria', serif;
+    font-family: 'Roboto Condensed', 'Cambria', serif;
     font-weight: 400;
     text-align: left;
     line-height: 36pt;
 }
 
 #text-table-of-contents {
-    font-family: 'Source Serif Pro', 'Cambria', serif;
+    font-family: 'Roboto', 'Calibri', sans;
 }
 
 div#table-of-contents > H2 {
